@@ -25,12 +25,6 @@ Goの環境がセットアップされていれば、以下のコマンドでリ
 go build -o text2voicevox.exe .
 ```
 
-(macOS / Linux の場合)
-
-```bash
-go build -o text2voicevox .
-```
-
 ## 使い方
 
 ### 基本的なコマンド
